@@ -17,7 +17,7 @@
 
 After installing the linux operating system: 
 1. Confirmed network connectivity: 
-```bash
+*```bash
 ip addr show
 2. Tested internet connection:
 bash
